@@ -1,3 +1,11 @@
+This project is based on "Complete Python Pandas Data Science Tutorial! (2025 Updated Edition)" by **Keith Galli**
+All data files comes from his tutorial files and GitHub repository -> "https://github.com/KeithGalli/complete-pandas-tutorial/tree/master"
+
+The only notebook for the tutorial made by **Michael Liu** is "full_tutorial.ipynb" which contains my own notes and practice
+Additionally, a folder named "GDP per Worker" is made to analyze my own data for a Grade 12 Data Management MDM4U Culminating Project
+
+
+
 # Complete Pandas Tutorial
 A comprehensive tutorial on the Python Pandas library, updated to be consistent with best practices and features available in 2024.
 
