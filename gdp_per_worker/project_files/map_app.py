@@ -54,6 +54,7 @@ def update_map(click_data):
 
     return fig, "Click on a state to view economic details."
 
+
 #Run the app
 if __name__ == "__main__":
     app.run(debug = True, port = 8051)
